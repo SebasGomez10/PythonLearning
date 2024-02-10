@@ -1,6 +1,6 @@
-print('suma de dos numeros')
-a = int(input('ingrese el valore de a:'))
-b = int(input('ingrese el valor de b:'))
+print('Suma de dos numeros')
+a = int(input('Ingrese el valor de a: '))
+b = int(input('Ingrese el valor de b: '))
 resultadoSuma = a + b
-print('el resultado es:')
+print('El resultado es:')
 print(resultadoSuma)
